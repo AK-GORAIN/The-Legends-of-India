@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Legends Of India</string>
+    <string name="title_activity_opening_new">openingActivityNew</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">HOME</string>
+    <string name="menu_gallery">ABOUT</string>
+    <string name="menu_slideshow">HELP</string>
+    <string name="link_s">
+        <a href="https://www.sk7788775@gmail.com">sk7788775@gmail.com</a>
+    </string>
+    <string name="link_a">
+        <a href="https://www.ankitgorain049@gmail.com">ankitgorain@gmail.com</a>
+    </string>
+
+
+</resources>
